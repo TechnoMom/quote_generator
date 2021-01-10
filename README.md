@@ -1,6 +1,4 @@
-# Mixed Messages
+# Quote Mixer
 
-Codecademy portfolio project Mixed Messages
-
-This is a little JavaScript project specified in the https://codecademy.com/ Full Stack Developer Course.
+This is a little JavaScript project to display a random quote from an array.
 
